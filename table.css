@@ -1,0 +1,26 @@
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #1b99b5;
+    color: white;
+}
+
+td {
+    background-color: #fff;
+}
+
+td img {
+    max-width: 100px;
+    height: auto;
+}
